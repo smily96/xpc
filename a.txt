@@ -1,1 +1,2 @@
 git is a version control ststem.
+git is a ver sion control system.
