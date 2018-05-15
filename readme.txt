@@ -27,5 +27,9 @@ write branch dev
 aaaaaaaaaaaaaaaa
 
 
+<<<<<<< HEAD
 
 sfffff
+=======
+sffffff
+>>>>>>> af341d73eaa17db0d29ebff7d37bff059b1826f2
